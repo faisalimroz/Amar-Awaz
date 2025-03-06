@@ -1,0 +1,51 @@
+[
+    {
+      "phone": "01330995542",
+      "productInfo": {
+        "brand": "WALTON",
+        "product_type": "AIRCONDITIONER-INDOOR",
+        "model": "WSN-KRYSTALINE-24B",
+        "sr_number": "24xb0203fa121164",
+        "warranty_card": "No Image Uploaded"
+      },
+      "removedAt": "5 Mar 2025 14:13:45",
+      "status": "REMOVED"
+    },
+    {
+      "phone": "01608166710",
+      "productInfo": {
+        "brand": "WALTON",
+        "product_type": "REFRIGERATOR",
+        "model": "WFD-1F3-GDEL-XX",
+        "sr_number": "1630601dq6498",
+        "warranty_card": "No Image Uploaded"
+      },
+      "removedAt": "5 Mar 2025 12:36:59",
+      "status": "REMOVED"
+    },
+    {
+      "phone": "01751011553",
+      "productInfo": {
+        "brand": "WALTON",
+        "product_type": "REFRIGERATOR",
+        "model": "WFA-2A3-GDEL-SC",
+        "sr_number": "2131402ab5488",
+        "warranty_card": "No Image Uploaded"
+      },
+      "removedAt": "4 Mar 2025 19:46:46",
+      "status": "REMOVED"
+    },
+    {
+      "phone": "01712333718",
+      "productInfo": {
+        "brand": "WALTON",
+        "product_type": "WEIGHT SCALE",
+        "model": "WPCS-DS60AX",
+        "sr_number": "wpcs000128528",
+        "warranty_card": "No Image Uploaded",
+        "remark": "AUTO APPROVED"
+      },
+      "removedAt": "3 Mar 2025 23:17:45",
+      "status": "REMOVED"
+    }
+  ]

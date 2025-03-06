@@ -1,0 +1,82 @@
+[
+    {
+      "phone": "01937676123",
+      "product_info": {
+        "brand": "WALTON",
+        "product_type": "RECHARGEABLE FAN",
+        "model": "W17OA-AS",
+        "sr_number": "w17oaas392069",
+        "warranty_card": "No Image Uploaded"
+      },
+      "seller": "Walton Plaza-Kalampur, Dhamrai",
+      "remark": "",
+      "processed_by": "",
+      "processed_at": "5 Mar 2025 14:14:42",
+      "added_at": "5 Mar 2025 14:14:42",
+      "status": [
+        {
+          "label": "Approve",
+          "color": "green"
+        },
+        {
+          "label": "Reject",
+          "color": "red"
+        },
+        {
+          "label": "Remove",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "phone": "01819153379",
+      "product_info": {
+        "brand": "WALTON",
+        "product_type": "ELECTRIC KETTLE",
+        "model": "WK-GW180A",
+        "sr_number": "wek0000467302",
+        "warranty_card": "No Image Uploaded"
+      },
+      "seller": "Walton Plaza-Proshika More, Mirpur06",
+      "remark": "AUTO APPROVED",
+      "processed_by": "AUTO",
+      "processed_at": "5 Mar 2025 14:2:45",
+      "added_at": "5 Mar 2025 14:2:45",
+      "status": [
+        {
+          "label": "APPROVED",
+          "color": "green"
+        },
+        {
+          "label": "Remove",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "phone": "01754593818",
+      "product_info": {
+        "brand": "WALTON",
+        "product_type": "GAS STOVE (LPG)",
+        "model": "WGS-GDC11 (LPG)",
+        "sr_number": "wgdc111032394",
+        "warranty_card": "No Image Uploaded"
+      },
+      "seller": "M/S Kabir And Brothers-Pirer Bazar",
+      "remark": "AUTO APPROVED",
+      "processed_by": "AUTO",
+      "processed_at": "5 Mar 2025 13:50:13",
+      "added_at": "5 Mar 2025 13:50:13",
+      "status": [
+        {
+          "label": "APPROVED",
+          "color": "green"
+        },
+        {
+          "label": "Remove",
+          "color": "red"
+        }
+      ]
+    }
+  ]
+  
